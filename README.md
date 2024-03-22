@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WouterJones
-- 🌱 Tech stack: Php, Laravel, Typescript, Javascript, Vue 3
+- 🌱 Tech stack: Php, Laravel, Typescript, Javascript, Vue
 - 📫 Software developer at Webuildapps
